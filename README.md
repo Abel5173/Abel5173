@@ -13,6 +13,6 @@
 - ⚡ Fun fact: ...
  -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abel5173&show_icons=true&theme=transparent)
+![Abel5173's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abel5173&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abel5173&layout=compact)](https://github.com/Abel5173/github-readme-stats)
 
