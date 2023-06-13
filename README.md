@@ -12,7 +12,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  -->
-
-![Abel5173's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abel5173&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abel5173&layout=compact)](https://github.com/Abel5173/github-readme-stats)
+![Abel5173's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abel5173&show_icons=true&theme=great-gatsby)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Abel5173&theme=great-gatsby)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abel5173&layout=compact&theme=great-gatsby)](https://github.com/Abel5173/github-readme-stats)
 
