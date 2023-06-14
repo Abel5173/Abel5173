@@ -16,3 +16,4 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Abel5173&theme=great-gatsby)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abel5173&layout=compact&theme=great-gatsby)](https://github.com/Abel5173/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Abel5173&theme=juicyfresh&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/Abel5173/github-profile-trophy)
