@@ -11,7 +11,12 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
- -->
+ --> 
+ 
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -40,3 +45,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abel5173&layout=compact&theme=great-gatsby)](https://github.com/Abel5173/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Abel5173&theme=juicyfresh&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/Abel5173/github-profile-trophy)
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
