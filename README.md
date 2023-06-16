@@ -1,4 +1,4 @@
-# Hi there! 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FFB100&background=7B0C8840&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hi+there+My+name+is+Abel+;I'm+a+Junior+Full+Stack+Web+Developer)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=Abel5173&label=PROFILE+VIEWS)
 
@@ -75,4 +75,4 @@
   </div>
 </div>
 
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316zyg6puysxap4erpg4leu766uq)
