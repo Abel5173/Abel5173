@@ -13,8 +13,6 @@
 - ⚡ Fun fact: ...
  --> 
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
