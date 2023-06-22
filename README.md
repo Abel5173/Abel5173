@@ -5,9 +5,6 @@
 - 🔭 I’m currently working on Some Personal Projects
 - 🌱 I’m currently learning React Material UI
 
-
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-
 ## Skills
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,7 +18,7 @@
 
 ![Lubuntu](https://img.shields.io/badge/-Lubuntu-%230065C2?style=for-the-badge&logo=lubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white)
+![DuckDuckGo](https://img.shields.io/badge/Search-DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white)
 
 ## Version Control
 
