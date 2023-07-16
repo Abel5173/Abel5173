@@ -58,6 +58,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abel5173&layout=compact&theme=great-gatsby" alt="Top Languages" />
     </a>
   </div>
+  
   <div style="grid-column: span 1;">
     <a href="https://github.com/Abel5173/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=Abel5173&theme=juicyfresh&row=2&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
