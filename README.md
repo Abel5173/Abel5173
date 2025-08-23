@@ -310,7 +310,7 @@ I'm a passionate **Generative AI Engineer** and **Data Scientist** with expertis
 
 ### 💼 Professional
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abel5173)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abel5173.github.io/my_portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abel5173.github.io/My-CV)
 
 </td>
 <td width="33%" align="center">
