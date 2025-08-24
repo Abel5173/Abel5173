@@ -27,7 +27,7 @@ I'm a passionate **Generative AI Engineer** and **Data Scientist** with expertis
 - 🌱 **Learning:** Advanced LLM Fine-tuning & MLOps on Kubernetes  
 - 👯 **Open for Collaboration:** Generative AI projects and innovative ML solutions
 - 💬 **Ask me about:** Python, PyTorch, Hugging Face, RAG systems, ML deployment
-- 📫 **Reach me:** abel5173@gmail.com
+- 📫 **Reach me:** abelzeleke5173@gmail.com
 - ⚡ **Fun fact:** I automate everything that can be automated!
 
 ---
@@ -309,14 +309,14 @@ I'm a passionate **Generative AI Engineer** and **Data Scientist** with expertis
 <td width="33%" align="center">
 
 ### 💼 Professional
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abel5173)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abel-zeleke-3812101b7/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abel5173.github.io/My-CV)
 
 </td>
 <td width="33%" align="center">
 
 ### 📧 Contact
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abel5173@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abelzeleke5173@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abel5173)
 
 </td>
